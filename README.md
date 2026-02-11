@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlperenYT
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning Java, C++
-- 💞️ I’m looking to collaborate on Google or Microsoft
+- 💞️ I’m not looking to collaborate for now.
 - 📫 How to reach me: alperenguner.com@gmail.com
 
 <!---
